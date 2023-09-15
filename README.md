@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauê Michel Reblin Kloth
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando Csharp
+- 🔭 Estou trabalho com front-end
+- 🌱 Estou estudando NodeJS
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Gearhead
 

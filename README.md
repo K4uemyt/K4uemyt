@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalho com front-end
 - 🌱 Estou estudando NodeJS
-- 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Gearhead
 
 <div style="display: inline_block"><br>

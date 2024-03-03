@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Kauê Michel Reblin Kloth
 
-- 🔭 Estou trabalho com front-end
-- 🌱 Estou estudando NodeJS
+- 🔭 Técnico em Informática Instituto Federal Campus Ibirama
+- 🌱 Estutando na FURB - Sistemas de Informação
+- 🎇 Desenvolvendo Projetos Front-End
 - ⚡ Fun fact: Gearhead
 
 <div style="display: inline_block"><br>
